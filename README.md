@@ -21,7 +21,7 @@ Open Visual Studio Code, clone the GitHub Lab 3 assignment, and create an Entity
 using System;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFCoreDemo
+namespace lab3 // You may have to change the namespace to match your app namespace in Program.cs
 {
     public class AppDbContext : DbContext
     {
