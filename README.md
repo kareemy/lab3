@@ -55,7 +55,7 @@ How do you access the database? How do you add an object to the database? How do
 Open the database in **DB Browser for SQLite**. Click Browse Data. Do you see your mad scientist entry? Run your program again. What happens in the database?
 
 ## Task 4: Finishing Up
-1. Answer the reflection questions at https://tinyurl.com/CIDM3312-Lab3
+1. Answer the reflection questions at https://tinyurl.com/CIDM3312-Lab3-Reflection
 2. Save your program and run it. At the terminal prompt, type `dotnet run`
 3. Fill in your name in `README.md` and push your changes to GitHub using the VS Code GUI:
     - Click the source control icon in VS Code
